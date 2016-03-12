@@ -11,7 +11,6 @@ namespace jenkins_ci_csharp_tests
         public void TestMethod1()
         {
             Assert.AreEqual("Hello World", Program.CreateMessage());
-
         }
     }
 }
