@@ -15,7 +15,7 @@ namespace jenkins_ci_csharp
 
         public static string CreateMessage()
         {
-            return "Hello World";
+            return "Hello World!";
         }
     }
 }
